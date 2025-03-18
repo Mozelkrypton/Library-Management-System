@@ -291,5 +291,7 @@ void viewing_all_books(int counter){
 }
 void quit(){
     /*This is the exit function*/
+
+    
     _exit(1);
 }
